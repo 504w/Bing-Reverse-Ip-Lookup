@@ -1,10 +1,10 @@
 <html>
     <head>
-        <title>EST Reverse Ip Lookup</title>
+        <title>Reverse Ip Lookup</title>
     </head>
     
 <body>
-<h2 style="text-align: center; color: #42b9f4;">Eagle Sec Team Reverse Ip Lookup coded by 504w</h2>
+<h2 style="text-align: center; color: #42b9f4;">Reverse Ip Lookup coded by 504w</h2>
     <form action="" method="POST" style="text-align: center;">
         <input type="text" name="host" placeholder=" Put Domain Here" style="width: 20%; height: 25px;" />
         <input type="submit" name="sub" style="width: 70px; height: 25px; border:none; background-color: red; color:#ffffff;" />
